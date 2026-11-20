@@ -14,7 +14,7 @@ Painel comunitário em modo texto para **registrar, organizar e acompanhar deman
 
 Projeto desenvolvido individualmente.
 
-**Vídeo de apresentação (YouTube, não listado):** _cole aqui o link_ (o mesmo de `docs/link_video.txt`)
+**Vídeo de apresentação (YouTube, não listado):** https://youtu.be/825VtWG2Vag (o mesmo de `docs/link_video.txt`)
 
 ---
 
