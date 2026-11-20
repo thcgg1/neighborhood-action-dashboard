@@ -1,0 +1,15 @@
+id;categoria;descricao;bairro;local;dia_abertura;status
+001;iluminacao;Poste apagado há vários dias;Vila Aurora;Praça Central;1;concluida
+002;limpeza;Acúmulo de lixo próximo ao ponto de ônibus;Jardim Primavera;Ponto de ônibus da avenida principal;2;em_analise
+003;acessibilidade;Calçada sem rampa de acesso na esquina;Vila Aurora;Esquina próxima à escola;3;aberta
+004;conservacao;Bancos quebrados na praça;Parque das Flores;Praça do bairro;3;concluida
+005;iluminacao;Lâmpada piscando em rua residencial;Jardim Primavera;Rua residencial;4;em_analise
+006;limpeza;Entulho descartado em terreno vazio;Parque das Flores;Terreno ao lado da quadra;5;concluida
+007;acessibilidade;Piso tátil danificado;Jardim Primavera;Calçada do posto de saúde;6;aberta
+008;iluminacao;Quadra esportiva sem iluminação noturna;Parque das Flores;Quadra esportiva;8;em_analise
+009;conservacao;Brinquedo do parquinho enferrujado;Vila Aurora;Parquinho infantil;10;aberta
+010;limpeza;Bueiro entupido com folhas;Vila Aurora;Rua da feira;12;em_analise
+011;iluminacao;Passarela escura durante a noite;Jardim Primavera;Passarela de pedestres;15;aberta
+012;acessibilidade;Ponto de ônibus sem espaço para cadeira de rodas;Parque das Flores;Ponto de ônibus;18;aberta
+013;;Mato alto cobrindo a calçada;Vila Aurora;Calçada da rua lateral;19;aberta
+005;limpeza;Lixo espalhado após a feira;Vila Aurora;Rua da feira;20;resolvida

@@ -1,0 +1,11 @@
+id;dia;status_anterior;status_novo;observacao
+001;2;aberta;em_analise;Moradores confirmaram o poste apagado
+002;4;aberta;em_analise;Fotos do local enviadas pelo grupo do bairro
+004;5;aberta;em_analise;Vistoria combinada com a associação
+001;6;em_analise;concluida;Lâmpada substituída
+006;6;aberta;em_analise;Mutirão de limpeza combinado
+005;7;aberta;em_analise;Verificação do circuito elétrico
+004;9;em_analise;concluida;Bancos reparados
+008;11;aberta;em_analise;Levantamento dos refletores da quadra
+006;13;em_analise;concluida;Entulho removido
+010;14;aberta;em_analise;Limpeza do bueiro solicitada
